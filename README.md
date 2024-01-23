@@ -4,7 +4,6 @@
 
 - *Präsentation und Beschreibung des Spiel VierGewinnt.*
 - *Starten des Spiels in IntelliJ.*
-- *Beispiel für Gamelogic.*
 - *Implementierung eines Threads.*
 - *Starten des Spiels in Jshell.*
 - *JUnit-Tests.*
@@ -17,10 +16,17 @@ Das Spiel wird auf einem senkrecht stehenden hohlen Spielbrett gespielt, in das 
 
 ## Starten des Spiels in IntelliJ
 
-Um das Spiel zu starten muss man die main-Methode in View ausführen und nachdem es gemacht wurde, kommt auf dem Bildschirm ein Bild mit einigen Hinweise.
-Diese Hinweise dienen dazu, dass man sich entscheiden kann :  
-- *ob man mit jemandem spielen will, indem man auf "1" drückt;* 
- - *ob man mit dem Rechner spielen will, indem man auf "2" drückt*
- -  *ob man Hilfe braucht, indem man auf "3" drückt*
+Um das Spiel zu starten muss man die main-Methode in View ausführen und nachdem es gemacht wurde, kommt auf dem Bildschirm ein Bild mit einer Nachricht :  Welcome to connect four; und  mit einigen Hinweise.
+Diese Hinweise dienen dazu, dass man sich entscheiden kann:  
+- *ob man mit jemandem spielen will und wenn es der Fall ist, drückt man auf "1";* 
+ - *ob man mit dem Rechner spielen will, und wenn es der Fall ist, drückt man auf "2"*
+ -  *ob man Hilfe braucht, und wenn es der Fall ist, drückt man auf "3"*
 ### Screenshot
-<img src="Screenshot.png"> 
+
+
+![Scrennshot](images/Screenshot.png)
+
+Wenn man auf "3" gedrückt hat, kommt auf den Bildschirm einen Recheck 
+
+
+
