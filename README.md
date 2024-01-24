@@ -89,11 +89,11 @@ alle Methoden des models wurden erfolgreich getestet.
 
 Für die Realisierung dieses Projekts wurden die folgenden Bibliotheken verwendet:
 
-- *Java SE Development Kit 17.01.12 in intelliJ IDEA*
+- *Java SE Development Kit 21.0.1 in intelliJ IDEA*
 - *core.jar der Processing 4 Bibliothek von Processing java für die grafische Darstellung des Spiels*
 - *controlP5.jar*
 - *JUnit5.8.1 für die Tests*
-- *cloc-1.96.1.exe wurde verwendet, um die Codezeilen zu zählen*
+- *cloc-1.98.exe wurde verwendet, um die Codezeilen zu zählen*
 
 
 
